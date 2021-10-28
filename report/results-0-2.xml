@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Product Search" timestamp="2021-10-28T17:52:59" time="12.403" tests="4" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="suiteName" value="Product Search"/>
+      <property name="capabilities" value="chrome.95_0_4638_54.windows"/>
+      <property name="file" value=".\test\specs\example.e2e.js"/>
+    </properties>
+    <testcase classname="chrome.95_0_4638_54.windows.Product_Search" name="should open the main url and verify the title" time="4.02">
+      <system-out><![CDATA[
+COMMAND: POST /session/aae9aa40c18274142c9b43a790b37a2b/url - {"url":"https://by.ebay.com/"}
+RESULT: {"url":"https://by.ebay.com/"}
+COMMAND: GET /session/aae9aa40c18274142c9b43a790b37a2b/title - {}
+RESULT: {}
+COMMAND: POST /session/aae9aa40c18274142c9b43a790b37a2b/elements - {"using":"css selector","value":".hl-popular-destinations-name"}
+RESULT: {"using":"css selector","value":".hl-popular-destinations-name"}
+COMMAND: GET /session/aae9aa40c18274142c9b43a790b37a2b/element/5c6d21df-1609-4350-86c6-f90439724bc5/text - {}
+COMMAND: GET /session/aae9aa40c18274142c9b43a790b37a2b/element/f0d9dcbd-1b38-482b-bf99-59d78867186f/text - {}
+COMMAND: GET /session/aae9aa40c18274142c9b43a790b37a2b/element/da972f27-9d91-4142-894b-f13460d30e24/text - {}
+COMMAND: GET /session/aae9aa40c18274142c9b43a790b37a2b/element/29e35e03-2cc3-4b04-b483-d7300b11840e/text - {}
+COMMAND: GET /session/aae9aa40c18274142c9b43a790b37a2b/element/82dd1c67-2eff-4da9-b937-497b66115aa4/text - {}
+COMMAND: GET /session/aae9aa40c18274142c9b43a790b37a2b/element/05b56961-6639-4ba8-963a-876b54bfd755/text - {}
+COMMAND: GET /session/aae9aa40c18274142c9b43a790b37a2b/element/08c3cb4c-4e27-40e3-b4d2-76ba65c8b956/text - {}
+COMMAND: GET /session/aae9aa40c18274142c9b43a790b37a2b/element/2608a3a3-79d2-4ca3-9fd9-e3cb7dbba5a0/text - {}
+COMMAND: GET /session/aae9aa40c18274142c9b43a790b37a2b/element/c49e4af0-153c-4b0b-976e-10b05d695a4a/text - {}
+COMMAND: GET /session/aae9aa40c18274142c9b43a790b37a2b/element/3fb16f17-08e5-4649-b410-09de75d215ed/text - {}
+COMMAND: GET /session/aae9aa40c18274142c9b43a790b37a2b/element/2fda090b-c416-4487-8150-773b369ba4ce/text - {}
+COMMAND: GET /session/aae9aa40c18274142c9b43a790b37a2b/element/afeef490-f69a-4b1c-a176-0b95cfcd05e5/text - {}
+COMMAND: GET /session/aae9aa40c18274142c9b43a790b37a2b/element/f8dc492b-cf61-4c96-b78c-77259d1ec2a8/text - {}
+COMMAND: GET /session/aae9aa40c18274142c9b43a790b37a2b/element/899d0702-e12e-4f30-aebd-2aabb6a10f36/text - {}
+RESULT: {}
+RESULT: {}
+RESULT: {}
+RESULT: {}
+RESULT: {}
+RESULT: {}
+RESULT: {}
+RESULT: {}
+RESULT: {}
+RESULT: {}
+RESULT: {}
+RESULT: {}
+RESULT: {}
+RESULT: {}
+]]></system-out>
+    </testcase>
+    <testcase classname="chrome.95_0_4638_54.windows.Product_Search" name="should search for a product and verify the search text value" time="7.173">
+      <system-out><![CDATA[
+COMMAND: POST /session/aae9aa40c18274142c9b43a790b37a2b/element - {"using":"css selector","value":"#gh-ac"}
+RESULT: {"using":"css selector","value":"#gh-ac"}
+COMMAND: POST /session/aae9aa40c18274142c9b43a790b37a2b/element/d04dd681-283d-4269-a17b-406d5cb0b667/value - {"text":"ноутбук"}
+RESULT: {"text":"ноутбук"}
+COMMAND: POST /session/aae9aa40c18274142c9b43a790b37a2b/element - {"using":"css selector","value":"#gh-btn"}
+RESULT: {"using":"css selector","value":"#gh-btn"}
+COMMAND: POST /session/aae9aa40c18274142c9b43a790b37a2b/element/4d0bb02a-bf32-40a4-8c4a-c18f5f462faf/click - {}
+RESULT: {}
+COMMAND: POST /session/aae9aa40c18274142c9b43a790b37a2b/element - {"using":"css selector","value":"#gh-ac"}
+RESULT: {"using":"css selector","value":"#gh-ac"}
+COMMAND: GET /session/aae9aa40c18274142c9b43a790b37a2b/element/f0d3afb0-5871-475e-b955-6f706f5a5351/property/value - {}
+RESULT: {}
+]]></system-out>
+    </testcase>
+    <testcase classname="chrome.95_0_4638_54.windows.Product_Search" name="should redirect to a new page and verify the title" time="0.808">
+      <system-out><![CDATA[
+COMMAND: GET /session/aae9aa40c18274142c9b43a790b37a2b/screenshot - {}
+RESULT: {}
+COMMAND: GET /session/aae9aa40c18274142c9b43a790b37a2b/title - {}
+RESULT: {}
+]]></system-out>
+    </testcase>
+    <testcase classname="chrome.95_0_4638_54.windows.Product_Search" name="should update the search category" time="0.369">
+      <system-out><![CDATA[
+COMMAND: POST /session/aae9aa40c18274142c9b43a790b37a2b/element - {"using":"css selector","value":"#gh-cat option:nth-child(1)"}
+RESULT: {"using":"css selector","value":"#gh-cat option:nth-child(1)"}
+COMMAND: GET /session/aae9aa40c18274142c9b43a790b37a2b/element/1be16c88-f22d-4d7e-9352-ad77f5cb6a6f/text - {}
+RESULT: {}
+COMMAND: POST /session/aae9aa40c18274142c9b43a790b37a2b/element - {"using":"css selector","value":"#gh-cat option:nth-child(1)"}
+RESULT: {"using":"css selector","value":"#gh-cat option:nth-child(1)"}
+COMMAND: GET /session/aae9aa40c18274142c9b43a790b37a2b/element/1be16c88-f22d-4d7e-9352-ad77f5cb6a6f/text - {}
+RESULT: {}
+COMMAND: DELETE /session/aae9aa40c18274142c9b43a790b37a2b - {}
+RESULT: {}
+]]></system-out>
+    </testcase>
+  </testsuite>
+</testsuites>

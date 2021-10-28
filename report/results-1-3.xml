@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Watches Page" timestamp="2021-10-28T17:53:04" time="6.442" tests="4" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="suiteName" value="Watches Page"/>
+      <property name="capabilities" value="firefox.93_0.windows"/>
+      <property name="file" value=".\test\specs\watches.js"/>
+    </properties>
+    <testcase classname="firefox.93_0.windows.Watches_Page" name="should show the banner container" time="6">
+      <system-out><![CDATA[
+COMMAND: POST /session/5ff693d6-a4a4-42f1-8b0f-8d3a32acccbe/url - {"url":"https://export.ebay.com/ru/?utm_source=ebay&utm_medium=flyout&utm_campaign=sell"}
+RESULT: {"url":"https://export.ebay.com/ru/?utm_source=ebay&utm_medium=flyout&utm_campaign=sell"}
+COMMAND: POST /session/5ff693d6-a4a4-42f1-8b0f-8d3a32acccbe/element - {"using":"css selector","value":".block-big-picture-banner__inner"}
+RESULT: {"using":"css selector","value":".block-big-picture-banner__inner"}
+COMMAND: GET /session/5ff693d6-a4a4-42f1-8b0f-8d3a32acccbe/element/d2fe1f43-8113-4779-8d69-d8e5c677e2be/displayed - {}
+RESULT: {}
+]]></system-out>
+    </testcase>
+    <testcase classname="firefox.93_0.windows.Watches_Page" name="should show the banner title" time="0.062">
+      <system-out><![CDATA[
+COMMAND: POST /session/5ff693d6-a4a4-42f1-8b0f-8d3a32acccbe/element - {"using":"css selector","value":".block-big-picture-banner__title"}
+RESULT: {"using":"css selector","value":".block-big-picture-banner__title"}
+COMMAND: GET /session/5ff693d6-a4a4-42f1-8b0f-8d3a32acccbe/element/57bc152b-c242-49a9-9122-c11227f1c5ae/text - {}
+RESULT: {}
+]]></system-out>
+    </testcase>
+    <testcase classname="firefox.93_0.windows.Watches_Page" name="should contain link on banner button and verify its clickable" time="0.131">
+      <system-out><![CDATA[
+COMMAND: POST /session/5ff693d6-a4a4-42f1-8b0f-8d3a32acccbe/element - {"using":"css selector","value":".block-big-picture-banner__button"}
+RESULT: {"using":"css selector","value":".block-big-picture-banner__button"}
+COMMAND: GET /session/5ff693d6-a4a4-42f1-8b0f-8d3a32acccbe/element/e76ec726-6de5-4510-b372-5e2235a3c74b/attribute/href - {}
+RESULT: {}
+COMMAND: POST /session/5ff693d6-a4a4-42f1-8b0f-8d3a32acccbe/element - {"using":"css selector","value":".block-big-picture-banner__button"}
+RESULT: {"using":"css selector","value":".block-big-picture-banner__button"}
+COMMAND: GET /session/5ff693d6-a4a4-42f1-8b0f-8d3a32acccbe/element/e76ec726-6de5-4510-b372-5e2235a3c74b/displayed - {}
+RESULT: {}
+COMMAND: POST /session/5ff693d6-a4a4-42f1-8b0f-8d3a32acccbe/execute/sync - {"script":"return (function isElementClickable(elem) {\n    if (!elem.getBoundingClientRect || !elem.scrollIntoView || !elem.contains || !elem.getClientRects || !document.elementFromPoint) {\n        return false; ... (5149 more bytes)","args":[{"element-6066-11e4-a52e-4f735466cecf":"e76ec726-6de5-4510-b372-5e2235a3c74b","ELEMENT":"e76ec726-6de5-4510-b372-5e2235a3c74b"}]}
+RESULT: {"script":"return (function isElementClickable(elem) {\n    if (!elem.getBoundingClientRect || !elem.scrollIntoView || !elem.contains || !elem.getClientRects || !document.elementFromPoint) {\n        return false; ... (5149 more bytes)","args":[{"element-6066-11e4-a52e-4f735466cecf":"e76ec726-6de5-4510-b372-5e2235a3c74b","ELEMENT":"e76ec726-6de5-4510-b372-5e2235a3c74b"}]}
+]]></system-out>
+    </testcase>
+    <testcase classname="firefox.93_0.windows.Watches_Page" name="should contain link on banner button and verify the new url" time="0.22">
+      <system-out><![CDATA[
+COMMAND: POST /session/5ff693d6-a4a4-42f1-8b0f-8d3a32acccbe/element - {"using":"css selector","value":".block-big-picture-banner__button"}
+RESULT: {"using":"css selector","value":".block-big-picture-banner__button"}
+COMMAND: POST /session/5ff693d6-a4a4-42f1-8b0f-8d3a32acccbe/element/e76ec726-6de5-4510-b372-5e2235a3c74b/click - {}
+RESULT: {}
+COMMAND: GET /session/5ff693d6-a4a4-42f1-8b0f-8d3a32acccbe/url - {}
+RESULT: {}
+COMMAND: GET /session/5ff693d6-a4a4-42f1-8b0f-8d3a32acccbe/url - {}
+RESULT: {}
+COMMAND: DELETE /session/5ff693d6-a4a4-42f1-8b0f-8d3a32acccbe - {}
+RESULT: {}
+]]></system-out>
+    </testcase>
+  </testsuite>
+</testsuites>
