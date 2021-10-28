@@ -1,0 +1,161 @@
+[ {
+  "uid" : "53a76a11484f0ebe",
+  "name" : "should contain link on banner button and verify the new url",
+  "time" : {
+    "start" : 1635420848989,
+    "stop" : 1635420853529,
+    "duration" : 4540
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d58818b7873e4c7",
+  "name" : "should contain link on banner button and verify its clickable",
+  "time" : {
+    "start" : 1635420849521,
+    "stop" : 1635420849621,
+    "duration" : 100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0dc33ad1479573c",
+  "name" : "should show the banner title",
+  "time" : {
+    "start" : 1635420849473,
+    "stop" : 1635420849520,
+    "duration" : 47
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5871eb72dec17b0a",
+  "name" : "should show the banner container",
+  "time" : {
+    "start" : 1635420844543,
+    "stop" : 1635420849473,
+    "duration" : 4930
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f25efffb6303da51",
+  "name" : "should contain link on banner button and verify its clickable",
+  "time" : {
+    "start" : 1635420848727,
+    "stop" : 1635420848989,
+    "duration" : 262
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff639dc7c2de83d2",
+  "name" : "should open the main url and verify the title",
+  "time" : {
+    "start" : 1635420840370,
+    "stop" : 1635420846384,
+    "duration" : 6014
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "77f5409c7b8139ed",
+  "name" : "should update the search category",
+  "time" : {
+    "start" : 1635420863687,
+    "stop" : 1635420863794,
+    "duration" : 107
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "34fae75ef395e8c8",
+  "name" : "should search for a product and verify the search text value",
+  "time" : {
+    "start" : 1635420848608,
+    "stop" : 1635420851520,
+    "duration" : 2912
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "33655bd8e43c2857",
+  "name" : "should redirect to a new page and verify the title",
+  "time" : {
+    "start" : 1635420851520,
+    "stop" : 1635420862238,
+    "duration" : 10718
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc54715b33858ae2",
+  "name" : "should open the main url and verify the title",
+  "time" : {
+    "start" : 1635420845824,
+    "stop" : 1635420848608,
+    "duration" : 2784
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b473db26a5968e73",
+  "name" : "should show the banner container",
+  "time" : {
+    "start" : 1635420840628,
+    "stop" : 1635420848510,
+    "duration" : 7882
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb0f2b1793ffb0e7",
+  "name" : "should redirect to a new page and verify the title",
+  "time" : {
+    "start" : 1635420852855,
+    "stop" : 1635420863686,
+    "duration" : 10831
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd0218533e34be3",
+  "name" : "should show the banner title",
+  "time" : {
+    "start" : 1635420848510,
+    "stop" : 1635420848727,
+    "duration" : 217
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40bdde76ab309ecd",
+  "name" : "should contain link on banner button and verify the new url",
+  "time" : {
+    "start" : 1635420849621,
+    "stop" : 1635420849826,
+    "duration" : 205
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "587787762c8faf7d",
+  "name" : "should update the search category",
+  "time" : {
+    "start" : 1635420862238,
+    "stop" : 1635420862302,
+    "duration" : 64
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e9648d5a50c2288",
+  "name" : "should search for a product and verify the search text value",
+  "time" : {
+    "start" : 1635420846385,
+    "stop" : 1635420852854,
+    "duration" : 6469
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

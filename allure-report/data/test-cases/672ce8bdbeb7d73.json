@@ -1,0 +1,162 @@
+{
+  "uid" : "672ce8bdbeb7d73",
+  "name" : "should show the banner container",
+  "fullName" : "Watches Page.should show the banner container",
+  "historyId" : "dae73047ca3be91e51a25df7212ef23c",
+  "time" : {
+    "start" : 1635416410241,
+    "stop" : 1635416415272,
+    "duration" : 5031
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1635416410245,
+        "stop" : 1635416414456,
+        "duration" : 4211
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8c2ab447ee8f43ce",
+        "name" : "Request",
+        "source" : "8c2ab447ee8f43ce.json",
+        "type" : "application/json",
+        "size" : 94
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1635416414460,
+        "stop" : 1635416414498,
+        "duration" : 38
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6e6fabe87401a251",
+        "name" : "Request",
+        "source" : "6e6fabe87401a251.json",
+        "type" : "application/json",
+        "size" : 76
+      }, {
+        "uid" : "fece9fa532c26bd1",
+        "name" : "Response",
+        "source" : "fece9fa532c26bd1.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1635416414508,
+        "stop" : 1635416414541,
+        "duration" : 33
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c419cc7be15cb6c7",
+        "name" : "Request",
+        "source" : "c419cc7be15cb6c7.json",
+        "type" : "application/json",
+        "size" : 8337
+      }, {
+        "uid" : "bd8d62245882b16d",
+        "name" : "Response",
+        "source" : "bd8d62245882b16d.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1635416414545,
+        "stop" : 1635416415271,
+        "duration" : 726
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4ab9ab5660511303",
+        "name" : "Screenshot",
+        "source" : "4ab9ab5660511303.png",
+        "type" : "image/png",
+        "size" : 169428
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 6,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Watches Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Watches Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should show the banner container"
+  }, {
+    "name" : "package",
+    "value" : "Watches Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-95.0.4638.54"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "672ce8bdbeb7d73.json",
+  "parameterValues" : [ "chrome-95.0.4638.54" ]
+}

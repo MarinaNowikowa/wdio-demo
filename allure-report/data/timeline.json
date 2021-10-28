@@ -1,0 +1,3557 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-3",
+    "children" : [ {
+      "name" : "should show the banner container",
+      "uid" : "228b2383a94abadb",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416528686,
+        "stop" : 1635416535491,
+        "duration" : 6805
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "f1ced0f4593eb9e3",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415463839,
+        "stop" : 1635415463892,
+        "duration" : 53
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "59d36a31ffdc5493",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415095882,
+        "stop" : 1635415100725,
+        "duration" : 4843
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "3c66d2580208f9ea",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635413822837,
+        "stop" : 1635413830343,
+        "duration" : 7506
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "fd1455393e25889b",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416535492,
+        "stop" : 1635416536537,
+        "duration" : 1045
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "eb1e59015d55a809",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411622579,
+        "stop" : 1635411624631,
+        "duration" : 2052
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "1cd938f3b8e19fa1",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411621921,
+        "stop" : 1635411622579,
+        "duration" : 658
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "af642b248cf5e322",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411856734,
+        "stop" : 1635411856922,
+        "duration" : 188
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "9083fdde91a73b02",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415095625,
+        "stop" : 1635415095703,
+        "duration" : 78
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "53a76a11484f0ebe",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420848989,
+        "stop" : 1635420853529,
+        "duration" : 4540
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "becb577ea13604d2",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635406902700,
+        "stop" : 1635406913423,
+        "duration" : 10723
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "1a83ea3c589627b5",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635410420533,
+        "stop" : 1635410442559,
+        "duration" : 22026
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "2bda821f92e07c6",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416848341,
+        "stop" : 1635416862768,
+        "duration" : 14427
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "e5d32c2fc5f7162",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415572296,
+        "stop" : 1635415572752,
+        "duration" : 456
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "f885954fe8482f08",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635413819194,
+        "stop" : 1635413822836,
+        "duration" : 3642
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "29472169f4c46b19",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635406913540,
+        "stop" : 1635406913775,
+        "duration" : 235
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "b473db26a5968e73",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420840628,
+        "stop" : 1635420848510,
+        "duration" : 7882
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "54a74316004b015f",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411624631,
+        "stop" : 1635411628112,
+        "duration" : 3481
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "289be7248e2ea4fa",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635345707961,
+        "stop" : 1635345708030,
+        "duration" : 69
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "b1624208b7f9eaa4",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415463893,
+        "stop" : 1635415464030,
+        "duration" : 137
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "323b4b95b2eb4050",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415464031,
+        "stop" : 1635415464282,
+        "duration" : 251
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "66e0cf7d80f86237",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411856670,
+        "stop" : 1635411856733,
+        "duration" : 63
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "8f9591bf25012679",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635345708031,
+        "stop" : 1635345708162,
+        "duration" : 131
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "b54c84249b0b14f0",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415453015,
+        "stop" : 1635415463838,
+        "duration" : 10823
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "9a55b3de71c9d66a",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414762798,
+        "stop" : 1635414762985,
+        "duration" : 187
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "fb2a3bc0ea499f02",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416537864,
+        "stop" : 1635416543239,
+        "duration" : 5375
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "e88b43b0c1add346",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414762646,
+        "stop" : 1635414762705,
+        "duration" : 59
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "ed0ed144d4f8b293",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416862768,
+        "stop" : 1635416863782,
+        "duration" : 1014
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "3948e35918797594",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420614931,
+        "stop" : 1635420620061,
+        "duration" : 5130
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "440505b415283a31",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414651447,
+        "stop" : 1635414651701,
+        "duration" : 254
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "bd0218533e34be3",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420848510,
+        "stop" : 1635420848727,
+        "duration" : 217
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "844c4a310c6a64b2",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411856922,
+        "stop" : 1635411862649,
+        "duration" : 5727
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "3eb12e334e3c5ba1",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415095704,
+        "stop" : 1635415095882,
+        "duration" : 178
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "a3ae3d1dd27577ed",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635410442610,
+        "stop" : 1635410442706,
+        "duration" : 96
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "b8cf34b70e7be1b2",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416864483,
+        "stop" : 1635416870420,
+        "duration" : 5937
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "cf16766daaaf9ae6",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411616055,
+        "stop" : 1635411621921,
+        "duration" : 5866
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "39229a283ba48304",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411852782,
+        "stop" : 1635411856670,
+        "duration" : 3888
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "b753269e6fb8b03d",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635410442706,
+        "stop" : 1635410442942,
+        "duration" : 236
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "bdde41bc23ca0bd1",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414632758,
+        "stop" : 1635414651445,
+        "duration" : 18687
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "66c05b20c0b1f9bd",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416863783,
+        "stop" : 1635416864483,
+        "duration" : 700
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "9e269d54eadf0039",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635413811173,
+        "stop" : 1635413817666,
+        "duration" : 6493
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "aa1cde4d00b6dbcf",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415572753,
+        "stop" : 1635415575064,
+        "duration" : 2311
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "b29afc2ff06b0b38",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635417380149,
+        "stop" : 1635417387978,
+        "duration" : 7829
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "fb7802f5d04de932",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416415272,
+        "stop" : 1635416416597,
+        "duration" : 1325
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "9be4db303069cc98",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635406913424,
+        "stop" : 1635406913539,
+        "duration" : 115
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "a1edc451be75c36d",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420614442,
+        "stop" : 1635420614540,
+        "duration" : 98
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "f350254a43c0eb20",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416536538,
+        "stop" : 1635416537863,
+        "duration" : 1325
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "61e81d9737e0c008",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414762705,
+        "stop" : 1635414762798,
+        "duration" : 93
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "876848ae34344bae",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415090989,
+        "stop" : 1635415095625,
+        "duration" : 4636
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "3764ad937b2517d7",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414747954,
+        "stop" : 1635414762646,
+        "duration" : 14692
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "711fa6a5e5575058",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416418456,
+        "stop" : 1635416420839,
+        "duration" : 2383
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "672ce8bdbeb7d73",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416410241,
+        "stop" : 1635416415272,
+        "duration" : 5031
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "1bcd2a08deb5164a",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415575064,
+        "stop" : 1635415578132,
+        "duration" : 3068
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "6404926e54a487f6",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420614541,
+        "stop" : 1635420614931,
+        "duration" : 390
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "e00049b6d8bfce2",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415568080,
+        "stop" : 1635415572295,
+        "duration" : 4215
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "ac0b1a14686a80d3",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635417389837,
+        "stop" : 1635417391179,
+        "duration" : 1342
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "6be8af659ced3b8d",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414651702,
+        "stop" : 1635414651978,
+        "duration" : 276
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "f25efffb6303da51",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420848727,
+        "stop" : 1635420848989,
+        "duration" : 262
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "c0dc0f2d08cda63a",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635345697929,
+        "stop" : 1635345707961,
+        "duration" : 10032
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "6461f5a9c45b8ea3",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414651979,
+        "stop" : 1635414652416,
+        "duration" : 437
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "5de60517230e9339",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635406913775,
+        "stop" : 1635406914393,
+        "duration" : 618
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "e79be703286560bf",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635345708162,
+        "stop" : 1635345708510,
+        "duration" : 348
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "e7e752df8c08d884",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420609615,
+        "stop" : 1635420614442,
+        "duration" : 4827
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "df75765089831b1b",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635410442559,
+        "stop" : 1635410442610,
+        "duration" : 51
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "4cdfe45267112870",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635417388739,
+        "stop" : 1635417389837,
+        "duration" : 1098
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "b3290f6321d26f5e",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635413817667,
+        "stop" : 1635413819193,
+        "duration" : 1526
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "c9a62cc240e98fad",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416416597,
+        "stop" : 1635416418456,
+        "duration" : 1859
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "804feca316e2ce96",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635417387979,
+        "stop" : 1635417388739,
+        "duration" : 760
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    } ],
+    "uid" : "b755a79e149728f67460aea38b0710e0"
+  }, {
+    "name" : "0-2",
+    "children" : [ {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "a5b2bb8ae7f37265",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415463204,
+        "stop" : 1635415463250,
+        "duration" : 46
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "eda83c2bfe97649e",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414769792,
+        "stop" : 1635414770050,
+        "duration" : 258
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "1dc6890b79483775",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415579078,
+        "stop" : 1635415585262,
+        "duration" : 6184
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "133bcfd15ed21655",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635417395627,
+        "stop" : 1635417396083,
+        "duration" : 456
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "8762d7d5ceeecaaa",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635345711625,
+        "stop" : 1635345711645,
+        "duration" : 20
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "1808c606cd7d435d",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416539107,
+        "stop" : 1635416545640,
+        "duration" : 6533
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "ff639dc7c2de83d2",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420840370,
+        "stop" : 1635420846384,
+        "duration" : 6014
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "5642221bf2460ae3",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420624293,
+        "stop" : 1635420624410,
+        "duration" : 117
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "25acca8c427770ca",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635345707865,
+        "stop" : 1635345711625,
+        "duration" : 3760
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "c98f833ad4ee8a5e",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411619887,
+        "stop" : 1635411632815,
+        "duration" : 12928
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "6091414435f7907",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635410427447,
+        "stop" : 1635410432464,
+        "duration" : 5017
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "89cd4ee9dd6f5c91",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635410432489,
+        "stop" : 1635410432600,
+        "duration" : 111
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "42235772914f5cbd",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415568087,
+        "stop" : 1635415579077,
+        "duration" : 10990
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "d47b0c77bea33d95",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414633018,
+        "stop" : 1635414639461,
+        "duration" : 6443
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "8e9648d5a50c2288",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420846385,
+        "stop" : 1635420852854,
+        "duration" : 6469
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "8b2d684dbaa5b511",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416848757,
+        "stop" : 1635416860075,
+        "duration" : 11318
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "f6581e78a7d0eec6",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415457015,
+        "stop" : 1635415463203,
+        "duration" : 6188
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "c31b33f7de912ad2",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411856397,
+        "stop" : 1635411866512,
+        "duration" : 10115
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "e28c41226ff3fd00",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635406914594,
+        "stop" : 1635406916097,
+        "duration" : 1503
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "20dabbe2f1047e28",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635413811287,
+        "stop" : 1635413821315,
+        "duration" : 10028
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "e3df9daeb5297961",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635413830273,
+        "stop" : 1635413830730,
+        "duration" : 457
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "ed7120cb9e06d35f",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411876539,
+        "stop" : 1635411876695,
+        "duration" : 156
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "90ccf9bdecd13a06",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414639462,
+        "stop" : 1635414648363,
+        "duration" : 8901
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "289a11d75213ef2b",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635417396084,
+        "stop" : 1635417396471,
+        "duration" : 387
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "128d4fc055f3dccb",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "failed",
+      "time" : {
+        "start" : 1635411866513,
+        "stop" : 1635411876538,
+        "duration" : 10025
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "952e3d81438ca483",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411616055,
+        "stop" : 1635411619887,
+        "duration" : 3832
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "e8afe6f72eb45c6b",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415452941,
+        "stop" : 1635415457015,
+        "duration" : 4074
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "f4da16cc0cf9177e",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416860076,
+        "stop" : 1635416871402,
+        "duration" : 11326
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "ecd90977697b80d1",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416871402,
+        "stop" : 1635416871664,
+        "duration" : 262
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "3867caa5abd3b68a",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420609598,
+        "stop" : 1635420613836,
+        "duration" : 4238
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "b5423bca3c13f2e0",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416424689,
+        "stop" : 1635416425132,
+        "duration" : 443
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "d18d5ab46e9e7c56",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416418994,
+        "stop" : 1635416424219,
+        "duration" : 5225
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "d8a7f3ab5af67b0c",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420613837,
+        "stop" : 1635420623797,
+        "duration" : 9960
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "6560ccec11c8073e",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420623798,
+        "stop" : 1635420624293,
+        "duration" : 495
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "c64cd19f30306056",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415113757,
+        "stop" : 1635415114029,
+        "duration" : 272
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "9d2db28509f51949",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416410582,
+        "stop" : 1635416418993,
+        "duration" : 8411
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "a6c4aa73f967e7a7",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635410432465,
+        "stop" : 1635410432489,
+        "duration" : 24
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "f2487ab5426c445a",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635413830025,
+        "stop" : 1635413830267,
+        "duration" : 242
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "db4829be1f079187",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635410420615,
+        "stop" : 1635410427446,
+        "duration" : 6831
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "a8587a34f32156",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414747953,
+        "stop" : 1635414754564,
+        "duration" : 6611
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "77f5409c7b8139ed",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420863687,
+        "stop" : 1635420863794,
+        "duration" : 107
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "ee388982d696c92b",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635417380096,
+        "stop" : 1635417388290,
+        "duration" : 8194
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "69fb9f8c4a2756e1",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415585263,
+        "stop" : 1635415585543,
+        "duration" : 280
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "5c330120e689191a",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635417388290,
+        "stop" : 1635417395626,
+        "duration" : 7336
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "8b9ad490f27b9e7f",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635345697580,
+        "stop" : 1635345707865,
+        "duration" : 10285
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "4122bcd573ac0727",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "failed",
+      "time" : {
+        "start" : 1635414759770,
+        "stop" : 1635414769790,
+        "duration" : 10020
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "f8bff757f89344d1",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411852520,
+        "stop" : 1635411856397,
+        "duration" : 3877
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "70b7c1b3b1f1a997",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415099741,
+        "stop" : 1635415103722,
+        "duration" : 3981
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "d403c4c8b62ee51",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635406910497,
+        "stop" : 1635406914581,
+        "duration" : 4084
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "c03f280a65cf204f",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635413821316,
+        "stop" : 1635413830024,
+        "duration" : 8708
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "948a249a6f8ad06f",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635345711645,
+        "stop" : 1635345711936,
+        "duration" : 291
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "15e15af7d93ef3d",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416528853,
+        "stop" : 1635416539107,
+        "duration" : 10254
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "bb0f2b1793ffb0e7",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "failed",
+      "time" : {
+        "start" : 1635420852855,
+        "stop" : 1635420863686,
+        "duration" : 10831
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "53eaa10dc89b6abc",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411632815,
+        "stop" : 1635411632844,
+        "duration" : 29
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "6f66b446ab921127",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415463250,
+        "stop" : 1635415463399,
+        "duration" : 149
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "cad51ee6ba633f26",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415585544,
+        "stop" : 1635415586209,
+        "duration" : 665
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "63c1ea701ca60aad",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "failed",
+      "time" : {
+        "start" : 1635415103723,
+        "stop" : 1635415113752,
+        "duration" : 10029
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "919c26602157d281",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414754565,
+        "stop" : 1635414759769,
+        "duration" : 5204
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "2781f12500332747",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415091128,
+        "stop" : 1635415099741,
+        "duration" : 8613
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "de64ea4d38c88eba",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635406914582,
+        "stop" : 1635406914594,
+        "duration" : 12
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "6ff3eaa00169af0b",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635406902825,
+        "stop" : 1635406910496,
+        "duration" : 7671
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "28b2c295972e7d9c",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416871665,
+        "stop" : 1635416871980,
+        "duration" : 315
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "aa0defe3e25a46ff",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414658386,
+        "stop" : 1635414658653,
+        "duration" : 267
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "1cc9fcfd64c3f4f2",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411632844,
+        "stop" : 1635411632944,
+        "duration" : 100
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "4278cc83a046e5f8",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416555854,
+        "stop" : 1635416556145,
+        "duration" : 291
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "886a3c5bc84c9ce3",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "failed",
+      "time" : {
+        "start" : 1635414648364,
+        "stop" : 1635414658383,
+        "duration" : 10019
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "7a7ce91374cd7af9",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416424220,
+        "stop" : 1635416424689,
+        "duration" : 469
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "a2a5ab068722908d",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "failed",
+      "time" : {
+        "start" : 1635416545640,
+        "stop" : 1635416555853,
+        "duration" : 10213
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    } ],
+    "uid" : "880a094af3dffab161e2023284569d6f"
+  }, {
+    "name" : "1-3",
+    "children" : [ {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "ea3841af57e5532d",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416865487,
+        "stop" : 1635416865953,
+        "duration" : 466
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "d76e0952cd1ca48a",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415468972,
+        "stop" : 1635415469125,
+        "duration" : 153
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "b8e5db516ebf274f",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411857929,
+        "stop" : 1635411863559,
+        "duration" : 5630
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "b350ca81df36a263",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415100910,
+        "stop" : 1635415101031,
+        "duration" : 121
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "f642af291173c437",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415579723,
+        "stop" : 1635415579942,
+        "duration" : 219
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "1dae1ea4c87dfa53",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415100859,
+        "stop" : 1635415100910,
+        "duration" : 51
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "bf128b983d7d2e03",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635417392221,
+        "stop" : 1635417393597,
+        "duration" : 1376
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "b28ff968e1dac589",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411626944,
+        "stop" : 1635411627183,
+        "duration" : 239
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "1814867336cbbf8b",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635345703191,
+        "stop" : 1635345721445,
+        "duration" : 18254
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "4e81ecb36367fe4c",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416865101,
+        "stop" : 1635416865487,
+        "duration" : 386
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "cbe59f3e300e0906",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414660701,
+        "stop" : 1635414660907,
+        "duration" : 206
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "dac56cedd0608f83",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415579496,
+        "stop" : 1635415579722,
+        "duration" : 226
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "4f2a8d57bac25b60",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416441402,
+        "stop" : 1635416441688,
+        "duration" : 286
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "67dad6999e05614a",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414752974,
+        "stop" : 1635414758265,
+        "duration" : 5291
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "f16b422b9913c82",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411863609,
+        "stop" : 1635411863721,
+        "duration" : 112
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "b111f9267f54befa",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635410447980,
+        "stop" : 1635410448022,
+        "duration" : 42
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "61b8f3c91df5406f",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635413824783,
+        "stop" : 1635413825677,
+        "duration" : 894
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "7114d091a45c7477",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416533705,
+        "stop" : 1635416539643,
+        "duration" : 5938
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "7aa289c36bb7e585",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635406913522,
+        "stop" : 1635406913700,
+        "duration" : 178
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "cf3181311a7e89b1",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416440997,
+        "stop" : 1635416441167,
+        "duration" : 170
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "5d68b0483e608334",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414758322,
+        "stop" : 1635414758425,
+        "duration" : 103
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "2bfb96be563d1d78",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635413824475,
+        "stop" : 1635413824783,
+        "duration" : 308
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "44b16e0552375302",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414660500,
+        "stop" : 1635414660700,
+        "duration" : 200
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "3f7e4b49044a703a",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635417384811,
+        "stop" : 1635417391213,
+        "duration" : 6402
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "ba3c50dc3a800856",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416865953,
+        "stop" : 1635416869216,
+        "duration" : 3263
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "450069cabac9017",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635413818962,
+        "stop" : 1635413824099,
+        "duration" : 5137
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "2cd0b76fd52357e3",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635406908796,
+        "stop" : 1635406913355,
+        "duration" : 4559
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "550a9f8bd5250dbb",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411621995,
+        "stop" : 1635411626699,
+        "duration" : 4704
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "31ababb1d381f7d2",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415574272,
+        "stop" : 1635415579495,
+        "duration" : 5223
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "74cf35071e4620a9",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411863559,
+        "stop" : 1635411863609,
+        "duration" : 50
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "c69acc225977d275",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635345721574,
+        "stop" : 1635345721732,
+        "duration" : 158
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "cc78f27d987d1110",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416539969,
+        "stop" : 1635416540333,
+        "duration" : 364
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "9c721303e0ec5e05",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416539644,
+        "stop" : 1635416539968,
+        "duration" : 324
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "3d2585524c52ef3a",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415468887,
+        "stop" : 1635415468971,
+        "duration" : 84
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "413fcf1bd1f8408e",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420620830,
+        "stop" : 1635420620911,
+        "duration" : 81
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "2a989bf00270facf",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420620785,
+        "stop" : 1635420620829,
+        "duration" : 44
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "edc8d0ae5aaabe07",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635410448099,
+        "stop" : 1635410448243,
+        "duration" : 144
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "de3ce45ab9f57c40",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414758425,
+        "stop" : 1635414758616,
+        "duration" : 191
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "b7bc3245d01b88fd",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414660908,
+        "stop" : 1635414661187,
+        "duration" : 279
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "aabd9baf190919d5",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635406913355,
+        "stop" : 1635406913419,
+        "duration" : 64
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "7694241023f472c0",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415101031,
+        "stop" : 1635415101193,
+        "duration" : 162
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "fb12199f8f312f10",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416540333,
+        "stop" : 1635416541209,
+        "duration" : 876
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "4f469c6b92b50d0e",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420614377,
+        "stop" : 1635420620784,
+        "duration" : 6407
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "2d58818b7873e4c7",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420849521,
+        "stop" : 1635420849621,
+        "duration" : 100
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "1af331ab4993ba7c",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635345721446,
+        "stop" : 1635345721487,
+        "duration" : 41
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "54a1f270309f80f1",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635417391213,
+        "stop" : 1635417391855,
+        "duration" : 642
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "40bdde76ab309ecd",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420849621,
+        "stop" : 1635420849826,
+        "duration" : 205
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "4c14269a13fbfd72",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635417391856,
+        "stop" : 1635417392221,
+        "duration" : 365
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "59d054de32ceebdb",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420620912,
+        "stop" : 1635420621493,
+        "duration" : 581
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "3ea9a50a0a703cfb",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414638505,
+        "stop" : 1635414660499,
+        "duration" : 21994
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "7233259f4991b520",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411626699,
+        "stop" : 1635411626754,
+        "duration" : 55
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "7b5c48736b3116ff",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415579942,
+        "stop" : 1635415580282,
+        "duration" : 340
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify the new url",
+      "uid" : "b95368ebd249042",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411863721,
+        "stop" : 1635411863970,
+        "duration" : 249
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "83748429fa069c24",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415095808,
+        "stop" : 1635415100859,
+        "duration" : 5051
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "69b9c7476ab76a15",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635413824100,
+        "stop" : 1635413824475,
+        "duration" : 375
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "e33ef9373e975433",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635410448022,
+        "stop" : 1635410448099,
+        "duration" : 77
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "9426a7e5ae18508e",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415458167,
+        "stop" : 1635415468847,
+        "duration" : 10680
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "7652d685fe0e6872",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416441168,
+        "stop" : 1635416441402,
+        "duration" : 234
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "fa45e2bdd471cf90",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415468847,
+        "stop" : 1635415468886,
+        "duration" : 39
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "22823ee4efc0e434",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635345721488,
+        "stop" : 1635345721574,
+        "duration" : 86
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "51679ed06026dfd5",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411626755,
+        "stop" : 1635411626944,
+        "duration" : 189
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "f22664f5f41107e8",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416854290,
+        "stop" : 1635416865100,
+        "duration" : 10810
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "c0dc33ad1479573c",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420849473,
+        "stop" : 1635420849520,
+        "duration" : 47
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "90638f72228fe09a",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414758265,
+        "stop" : 1635414758322,
+        "duration" : 57
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "e9f95f4891387d16",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416415560,
+        "stop" : 1635416440996,
+        "duration" : 25436
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "5871eb72dec17b0a",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420844543,
+        "stop" : 1635420849473,
+        "duration" : 4930
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "2f9bac1af9336f85",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635410425752,
+        "stop" : 1635410447980,
+        "duration" : 22228
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "1b5ae5a7d8ffd7bc",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635406913419,
+        "stop" : 1635406913522,
+        "duration" : 103
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    } ],
+    "uid" : "19820e2d6fe04f5bf84547313e2a1e84"
+  }, {
+    "name" : "1-2",
+    "children" : [ {
+      "name" : "should update the search category",
+      "uid" : "ef2408942ede0a97",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411874531,
+        "stop" : 1635411874627,
+        "duration" : 96
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "abaa23a5f084c56d",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635410425441,
+        "stop" : 1635410429829,
+        "duration" : 4388
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "3d1c89e335c8070",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414639198,
+        "stop" : 1635414641563,
+        "duration" : 2365
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "1828552b93834688",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635417395278,
+        "stop" : 1635417396577,
+        "duration" : 1299
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "ec2364c6de57ddb8",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635410433761,
+        "stop" : 1635410433837,
+        "duration" : 76
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "cb6c01b0c1b16d94",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635413824067,
+        "stop" : 1635413826196,
+        "duration" : 2129
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "576fea74841858f1",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414654550,
+        "stop" : 1635414655099,
+        "duration" : 549
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "2b1e4977acc72399",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415098539,
+        "stop" : 1635415102064,
+        "duration" : 3525
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "4971a237adc28421",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414641564,
+        "stop" : 1635414644497,
+        "duration" : 2933
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "6d2b66186c8b23a0",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635406908653,
+        "stop" : 1635406912237,
+        "duration" : 3584
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "d679d5f6da42bc94",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635413826196,
+        "stop" : 1635413827522,
+        "duration" : 1326
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "6dc75cd5c84ba82a",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415576782,
+        "stop" : 1635415580864,
+        "duration" : 4082
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "b8e5d0bfeac220ec",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "failed",
+      "time" : {
+        "start" : 1635415102064,
+        "stop" : 1635415112081,
+        "duration" : 10017
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "89d504ce6e2cd08b",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415462904,
+        "stop" : 1635415465910,
+        "duration" : 3006
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "4eec676385a8f758",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415112083,
+        "stop" : 1635415112578,
+        "duration" : 495
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "e7f59c2acb4e8e28",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635345711041,
+        "stop" : 1635345711055,
+        "duration" : 14
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "8740c89d006bda36",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416855311,
+        "stop" : 1635416858620,
+        "duration" : 3309
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "33655bd8e43c2857",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "failed",
+      "time" : {
+        "start" : 1635420851520,
+        "stop" : 1635420862238,
+        "duration" : 10718
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "515f487da5db961",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416864292,
+        "stop" : 1635416866623,
+        "duration" : 2331
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "5d9b7c25501374e3",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635417394498,
+        "stop" : 1635417395278,
+        "duration" : 780
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "3f1accf11499daee",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416416059,
+        "stop" : 1635416419606,
+        "duration" : 3547
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "2f3d9c495a738c3c",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "failed",
+      "time" : {
+        "start" : 1635414758426,
+        "stop" : 1635414768455,
+        "duration" : 10029
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "d83e1976040667f9",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635413820314,
+        "stop" : 1635413824066,
+        "duration" : 3752
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "65327a37646415de",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635410429830,
+        "stop" : 1635410433750,
+        "duration" : 3920
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "f4da46887f4f886",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635417385920,
+        "stop" : 1635417389338,
+        "duration" : 3418
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "f42224cb42b23d19",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411624546,
+        "stop" : 1635411628852,
+        "duration" : 4306
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "5a7cf254243974dd",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411861620,
+        "stop" : 1635411864502,
+        "duration" : 2882
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "3bef8ebe7af7b849",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635345707430,
+        "stop" : 1635345711040,
+        "duration" : 3610
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "eab02a02e99be576",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635406916672,
+        "stop" : 1635406916683,
+        "duration" : 11
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "587787762c8faf7d",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420862238,
+        "stop" : 1635420862302,
+        "duration" : 64
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "ddcaf9e4455a018c",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416424623,
+        "stop" : 1635416425815,
+        "duration" : 1192
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "255d2d4420365751",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414752758,
+        "stop" : 1635414755246,
+        "duration" : 2488
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "3ff1321a3da85406",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416423915,
+        "stop" : 1635416424623,
+        "duration" : 708
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "45d6f47af95c331e",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411629285,
+        "stop" : 1635411629434,
+        "duration" : 149
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "3ba48b1a398190b7",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411858445,
+        "stop" : 1635411861619,
+        "duration" : 3174
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "1112ca01ddda13a1",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635406912238,
+        "stop" : 1635406916672,
+        "duration" : 4434
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "d664224717a774bf",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415465911,
+        "stop" : 1635415465923,
+        "duration" : 12
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "b70798989693e23f",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420615198,
+        "stop" : 1635420619523,
+        "duration" : 4325
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "cead7dd13081c46e",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "broken",
+      "time" : {
+        "start" : 1635416552585,
+        "stop" : 1635416558046,
+        "duration" : 5461
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "3614d3c6218f4867",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635345703870,
+        "stop" : 1635345707429,
+        "duration" : 3559
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "558c85e22dd48ecc",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "failed",
+      "time" : {
+        "start" : 1635414644498,
+        "stop" : 1635414654549,
+        "duration" : 10051
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "8250c100766454a9",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414768457,
+        "stop" : 1635414768981,
+        "duration" : 524
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "4914172921ccea4d",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635410433750,
+        "stop" : 1635410433761,
+        "duration" : 11
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "73d8ce0a1393871",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "failed",
+      "time" : {
+        "start" : 1635416542123,
+        "stop" : 1635416552585,
+        "duration" : 10462
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "b22ad59077061790",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420619523,
+        "stop" : 1635420623450,
+        "duration" : 3927
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "e93896ec7fc5fcc1",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416863504,
+        "stop" : 1635416864291,
+        "duration" : 787
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "4b900d38653f9b20",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635414755246,
+        "stop" : 1635414758425,
+        "duration" : 3179
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "cb2fd464f83d1ced",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416858621,
+        "stop" : 1635416863503,
+        "duration" : 4882
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "75f9f8f145573fc7",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "failed",
+      "time" : {
+        "start" : 1635411864503,
+        "stop" : 1635411874531,
+        "duration" : 10028
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "15057ad3cfb33fd1",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416419607,
+        "stop" : 1635416423914,
+        "duration" : 4307
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "711f5305383f10a0",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415465924,
+        "stop" : 1635415466460,
+        "duration" : 536
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "adaf92c4f1d1bf5d",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415459524,
+        "stop" : 1635415462904,
+        "duration" : 3380
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "b9fe9bfa2d272e86",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415580865,
+        "stop" : 1635415581820,
+        "duration" : 955
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "3e3ac8d47b1ce93d",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635417389339,
+        "stop" : 1635417394498,
+        "duration" : 5159
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "b9ee3000628288f8",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411621037,
+        "stop" : 1635411624545,
+        "duration" : 3508
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "3a346302ad4e3795",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415581820,
+        "stop" : 1635415583096,
+        "duration" : 1276
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "a6adc54d69e61eff",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416537581,
+        "stop" : 1635416542123,
+        "duration" : 4542
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "372a2c1b25951ca8",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415095383,
+        "stop" : 1635415098539,
+        "duration" : 3156
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "802a0e8b385643cd",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635406916683,
+        "stop" : 1635406917227,
+        "duration" : 544
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "6e56769a4a581f3",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635416533823,
+        "stop" : 1635416537580,
+        "duration" : 3757
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "3667175a03e83aa2",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420623451,
+        "stop" : 1635420624110,
+        "duration" : 659
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "4186e6c4af7a493e",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420624110,
+        "stop" : 1635420624180,
+        "duration" : 70
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "b196bcc8b69411b8",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635415573667,
+        "stop" : 1635415576781,
+        "duration" : 3114
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "3e02af524110f86f",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635411628853,
+        "stop" : 1635411629285,
+        "duration" : 432
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "fc54715b33858ae2",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420845824,
+        "stop" : 1635420848608,
+        "duration" : 2784
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "1a6f60380dedb363",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635413817223,
+        "stop" : 1635413820313,
+        "duration" : 3090
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "34fae75ef395e8c8",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420848608,
+        "stop" : 1635420851520,
+        "duration" : 2912
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "19bebf14a8e3054f",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635345711055,
+        "stop" : 1635345711158,
+        "duration" : 103
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-93.0" ]
+    } ],
+    "uid" : "aaf9cc9bc103c872529dc4d1947b03c1"
+  } ]
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Watches Page" timestamp="2021-10-28T16:12:08" time="4.832" tests="4" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="suiteName" value="Watches Page"/>
+      <property name="capabilities" value="chrome.95_0_4638_54.windows"/>
+      <property name="file" value=".\test\specs\watches.js"/>
+    </properties>
+    <testcase classname="chrome.95_0_4638_54.windows.Watches_Page" name="should show the banner container" time="4.004">
+      <system-out><![CDATA[
+COMMAND: POST /session/27a80bf219bfbd5b7b6ddfabcc146bf1/url - {"url":"https://export.ebay.com/ru/?utm_source=ebay&utm_medium=flyout&utm_campaign=sell"}
+RESULT: {"url":"https://export.ebay.com/ru/?utm_source=ebay&utm_medium=flyout&utm_campaign=sell"}
+COMMAND: POST /session/27a80bf219bfbd5b7b6ddfabcc146bf1/element - {"using":"css selector","value":".block-big-picture-banner__inner"}
+RESULT: {"using":"css selector","value":".block-big-picture-banner__inner"}
+COMMAND: POST /session/27a80bf219bfbd5b7b6ddfabcc146bf1/execute/sync - {"script":"return (function isElementDisplayed(element) {\n    function nodeIsElement(node) {\n        if (!node) {\n            return false;\n        }\n        switch (node.nodeType) {\n            case Node.ELEMEN ... (7762 more bytes)","args":[{"element-6066-11e4-a52e-4f735466cecf":"6a76b0e7-37c4-4167-b40a-522a0a1a82d0","ELEMENT":"6a76b0e7-37c4-4167-b40a-522a0a1a82d0"}]}
+RESULT: {"script":"return (function isElementDisplayed(element) {\n    function nodeIsElement(node) {\n        if (!node) {\n            return false;\n        }\n        switch (node.nodeType) {\n            case Node.ELEMEN ... (7762 more bytes)","args":[{"element-6066-11e4-a52e-4f735466cecf":"6a76b0e7-37c4-4167-b40a-522a0a1a82d0","ELEMENT":"6a76b0e7-37c4-4167-b40a-522a0a1a82d0"}]}
+]]></system-out>
+    </testcase>
+    <testcase classname="chrome.95_0_4638_54.windows.Watches_Page" name="should show the banner title" time="0.069">
+      <system-out><![CDATA[
+COMMAND: POST /session/27a80bf219bfbd5b7b6ddfabcc146bf1/element - {"using":"css selector","value":".block-big-picture-banner__title"}
+RESULT: {"using":"css selector","value":".block-big-picture-banner__title"}
+COMMAND: GET /session/27a80bf219bfbd5b7b6ddfabcc146bf1/element/617d2a74-832b-4afd-b283-5644d25a9366/text - {}
+RESULT: {}
+]]></system-out>
+    </testcase>
+    <testcase classname="chrome.95_0_4638_54.windows.Watches_Page" name="should contain link on banner button and verify its clickable" time="0.103">
+      <system-out><![CDATA[
+COMMAND: POST /session/27a80bf219bfbd5b7b6ddfabcc146bf1/element - {"using":"css selector","value":".block-big-picture-banner__button"}
+RESULT: {"using":"css selector","value":".block-big-picture-banner__button"}
+COMMAND: GET /session/27a80bf219bfbd5b7b6ddfabcc146bf1/element/29d173e0-e470-458c-97a9-80058b080a31/attribute/href - {}
+RESULT: {}
+COMMAND: POST /session/27a80bf219bfbd5b7b6ddfabcc146bf1/element - {"using":"css selector","value":".block-big-picture-banner__button"}
+RESULT: {"using":"css selector","value":".block-big-picture-banner__button"}
+COMMAND: POST /session/27a80bf219bfbd5b7b6ddfabcc146bf1/execute/sync - {"script":"return (function isElementDisplayed(element) {\n    function nodeIsElement(node) {\n        if (!node) {\n            return false;\n        }\n        switch (node.nodeType) {\n            case Node.ELEMEN ... (7762 more bytes)","args":[{"element-6066-11e4-a52e-4f735466cecf":"29d173e0-e470-458c-97a9-80058b080a31","ELEMENT":"29d173e0-e470-458c-97a9-80058b080a31"}]}
+RESULT: {"script":"return (function isElementDisplayed(element) {\n    function nodeIsElement(node) {\n        if (!node) {\n            return false;\n        }\n        switch (node.nodeType) {\n            case Node.ELEMEN ... (7762 more bytes)","args":[{"element-6066-11e4-a52e-4f735466cecf":"29d173e0-e470-458c-97a9-80058b080a31","ELEMENT":"29d173e0-e470-458c-97a9-80058b080a31"}]}
+COMMAND: POST /session/27a80bf219bfbd5b7b6ddfabcc146bf1/execute/sync - {"script":"return (function isElementClickable(elem) {\n    if (!elem.getBoundingClientRect || !elem.scrollIntoView || !elem.contains || !elem.getClientRects || !document.elementFromPoint) {\n        return false; ... (5149 more bytes)","args":[{"element-6066-11e4-a52e-4f735466cecf":"29d173e0-e470-458c-97a9-80058b080a31","ELEMENT":"29d173e0-e470-458c-97a9-80058b080a31"}]}
+RESULT: {"script":"return (function isElementClickable(elem) {\n    if (!elem.getBoundingClientRect || !elem.scrollIntoView || !elem.contains || !elem.getClientRects || !document.elementFromPoint) {\n        return false; ... (5149 more bytes)","args":[{"element-6066-11e4-a52e-4f735466cecf":"29d173e0-e470-458c-97a9-80058b080a31","ELEMENT":"29d173e0-e470-458c-97a9-80058b080a31"}]}
+]]></system-out>
+    </testcase>
+    <testcase classname="chrome.95_0_4638_54.windows.Watches_Page" name="should contain link on banner button and verify the new url" time="0.632">
+      <system-out><![CDATA[
+COMMAND: POST /session/27a80bf219bfbd5b7b6ddfabcc146bf1/element - {"using":"css selector","value":".block-big-picture-banner__button"}
+RESULT: {"using":"css selector","value":".block-big-picture-banner__button"}
+COMMAND: POST /session/27a80bf219bfbd5b7b6ddfabcc146bf1/element/29d173e0-e470-458c-97a9-80058b080a31/click - {}
+RESULT: {}
+COMMAND: GET /session/27a80bf219bfbd5b7b6ddfabcc146bf1/url - {}
+RESULT: {}
+COMMAND: GET /session/27a80bf219bfbd5b7b6ddfabcc146bf1/url - {}
+RESULT: {}
+COMMAND: DELETE /session/27a80bf219bfbd5b7b6ddfabcc146bf1 - {}
+RESULT: {}
+]]></system-out>
+    </testcase>
+  </testsuite>
+</testsuites>

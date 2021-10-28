@@ -1,0 +1,216 @@
+{
+  "uid" : "4cdfe45267112870",
+  "name" : "should contain link on banner button and verify its clickable",
+  "fullName" : "Watches Page.should contain link on banner button and verify its clickable",
+  "historyId" : "f73682449ecc454b0064f2e8cad8375d",
+  "time" : {
+    "start" : 1635417388739,
+    "stop" : 1635417389837,
+    "duration" : 1098
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1635417388741,
+        "stop" : 1635417388856,
+        "duration" : 115
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9cce7e5e906eb931",
+        "name" : "Request",
+        "source" : "9cce7e5e906eb931.json",
+        "type" : "application/json",
+        "size" : 77
+      }, {
+        "uid" : "fa376e39fea3eb34",
+        "name" : "Response",
+        "source" : "fa376e39fea3eb34.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/element/ab4c2511-834f-4567-ab7e-5a5453714ae2/attribute/href",
+      "time" : {
+        "start" : 1635417388858,
+        "stop" : 1635417389020,
+        "duration" : 162
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "cbef0e9976b77916",
+        "name" : "Response",
+        "source" : "cbef0e9976b77916.json",
+        "type" : "application/json",
+        "size" : 110
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1635417389021,
+        "stop" : 1635417389056,
+        "duration" : 35
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9cba4f3e29193509",
+        "name" : "Request",
+        "source" : "9cba4f3e29193509.json",
+        "type" : "application/json",
+        "size" : 77
+      }, {
+        "uid" : "da7e1dbde6d6659f",
+        "name" : "Response",
+        "source" : "da7e1dbde6d6659f.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1635417389060,
+        "stop" : 1635417389264,
+        "duration" : 204
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7c488493a210c7cc",
+        "name" : "Request",
+        "source" : "7c488493a210c7cc.json",
+        "type" : "application/json",
+        "size" : 8337
+      }, {
+        "uid" : "b3c3314a250d28a2",
+        "name" : "Response",
+        "source" : "b3c3314a250d28a2.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1635417389264,
+        "stop" : 1635417389298,
+        "duration" : 34
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c8048d5495b44d7b",
+        "name" : "Request",
+        "source" : "c8048d5495b44d7b.json",
+        "type" : "application/json",
+        "size" : 5649
+      }, {
+        "uid" : "34fb059a127be4e1",
+        "name" : "Response",
+        "source" : "34fb059a127be4e1.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1635417389299,
+        "stop" : 1635417389837,
+        "duration" : 538
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "886d9e14c8a1fb6",
+        "name" : "Screenshot",
+        "source" : "886d9e14c8a1fb6.png",
+        "type" : "image/png",
+        "size" : 169428
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 10,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 6
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Watches Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Watches Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should contain link on banner button and verify its clickable"
+  }, {
+    "name" : "package",
+    "value" : "Watches Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-95.0.4638.54"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4cdfe45267112870.json",
+  "parameterValues" : [ "chrome-95.0.4638.54" ]
+}

@@ -1,0 +1,308 @@
+{
+  "e24c25d0b7b3b7b3687c17b06e161cdc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bd0218533e34be3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420848510,
+        "stop" : 1635420848727,
+        "duration" : 217
+      }
+    } ]
+  },
+  "ac288422374e0062f464243b99874588" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2d58818b7873e4c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420849521,
+        "stop" : 1635420849621,
+        "duration" : 100
+      }
+    } ]
+  },
+  "827ed00d988f674a6c720dd768066578" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fc54715b33858ae2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420845824,
+        "stop" : 1635420848608,
+        "duration" : 2784
+      }
+    } ]
+  },
+  "ed56c461ee9e135e12c793fd2bd4c1ee" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8e9648d5a50c2288",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420846385,
+        "stop" : 1635420852854,
+        "duration" : 6469
+      }
+    } ]
+  },
+  "2d5d3776a31fa136683cc771715f9650" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c0dc33ad1479573c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420849473,
+        "stop" : 1635420849520,
+        "duration" : 47
+      }
+    } ]
+  },
+  "584f11cfaaa1af405f077613ea116612" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5871eb72dec17b0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420844543,
+        "stop" : 1635420849473,
+        "duration" : 4930
+      }
+    } ]
+  },
+  "419713da1b96310a006af367e74ead37" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "34fae75ef395e8c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420848608,
+        "stop" : 1635420851520,
+        "duration" : 2912
+      }
+    } ]
+  },
+  "f73682449ecc454b0064f2e8cad8375d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f25efffb6303da51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420848727,
+        "stop" : 1635420848989,
+        "duration" : 262
+      }
+    } ]
+  },
+  "6be33d754556dce70dc465bf7c66cb86" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ff639dc7c2de83d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420840370,
+        "stop" : 1635420846384,
+        "duration" : 6014
+      }
+    } ]
+  },
+  "187a9ef4d98a94de79e16490d3ee503a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "77f5409c7b8139ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420863687,
+        "stop" : 1635420863794,
+        "duration" : 107
+      }
+    } ]
+  },
+  "a172d572aa02198a40060e963b445ff6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bb0f2b1793ffb0e7",
+      "status" : "failed",
+      "statusDetails" : "Expect window to have title\n                \n                Expected: \"shoes\"\n                Received: \"ноутбук | eBay\"",
+      "time" : {
+        "start" : 1635420852855,
+        "stop" : 1635420863686,
+        "duration" : 10831
+      }
+    } ]
+  },
+  "17a2418912345a0621322707f00fe4a4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "587787762c8faf7d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420862238,
+        "stop" : 1635420862302,
+        "duration" : 64
+      }
+    } ]
+  },
+  "ca4d389f24f457a674699ac9348b65a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "53a76a11484f0ebe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420848989,
+        "stop" : 1635420853529,
+        "duration" : 4540
+      }
+    } ]
+  },
+  "dae73047ca3be91e51a25df7212ef23c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b473db26a5968e73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420840628,
+        "stop" : 1635420848510,
+        "duration" : 7882
+      }
+    } ]
+  },
+  "2f78d34402c10ffc39b92b76e9e5c15b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "40bdde76ab309ecd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635420849621,
+        "stop" : 1635420849826,
+        "duration" : 205
+      }
+    } ]
+  },
+  "a86183fcf4ead2be514b371de971a93c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "33655bd8e43c2857",
+      "status" : "failed",
+      "statusDetails" : "Expect window to have title\n                \n                Expected: \"shoes\"\n                Received: \"ноутбук | eBay\"",
+      "time" : {
+        "start" : 1635420851520,
+        "stop" : 1635420862238,
+        "duration" : 10718
+      }
+    } ]
+  }
+}

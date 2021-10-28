@@ -1,0 +1,228 @@
+{
+  "uid" : "d83e1976040667f9",
+  "name" : "should search for a product and verify the search text value",
+  "fullName" : "Product Search.should search for a product and verify the search text value",
+  "historyId" : "419713da1b96310a006af367e74ead37",
+  "time" : {
+    "start" : 1635413820314,
+    "stop" : 1635413824066,
+    "duration" : 3752
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1635413820316,
+        "stop" : 1635413820789,
+        "duration" : 473
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "637494b0af1b09fd",
+        "name" : "Request",
+        "source" : "637494b0af1b09fd.json",
+        "type" : "application/json",
+        "size" : 50
+      }, {
+        "uid" : "7ccc2994d74273b2",
+        "name" : "Screenshot",
+        "source" : "7ccc2994d74273b2.png",
+        "type" : "image/png",
+        "size" : 243026
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/element/6fd97a38-60b7-40b7-b471-3de7a95f2e60/value",
+      "time" : {
+        "start" : 1635413820816,
+        "stop" : 1635413820865,
+        "duration" : 49
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a3c644497db7b65f",
+        "name" : "Request",
+        "source" : "a3c644497db7b65f.json",
+        "type" : "application/json",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1635413820866,
+        "stop" : 1635413820882,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "776a92389f46ab46",
+        "name" : "Request",
+        "source" : "776a92389f46ab46.json",
+        "type" : "application/json",
+        "size" : 51
+      }, {
+        "uid" : "d021d2bb94af736f",
+        "name" : "Response",
+        "source" : "d021d2bb94af736f.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/element/712a518f-37b7-4ccd-a1a7-fa5550150522/click",
+      "time" : {
+        "start" : 1635413820885,
+        "stop" : 1635413824030,
+        "duration" : 3145
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1635413824031,
+        "stop" : 1635413824048,
+        "duration" : 17
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "eed35e080d83cbfc",
+        "name" : "Request",
+        "source" : "eed35e080d83cbfc.json",
+        "type" : "application/json",
+        "size" : 50
+      }, {
+        "uid" : "4bd9116d0b48d526",
+        "name" : "Response",
+        "source" : "4bd9116d0b48d526.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/element/d925b14a-5a14-403f-b161-f7e8b7dec761/property/value",
+      "time" : {
+        "start" : 1635413824051,
+        "stop" : 1635413824064,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8891c08045ccd6a6",
+        "name" : "Response",
+        "source" : "8891c08045ccd6a6.json",
+        "type" : "application/json",
+        "size" : 16
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1635413824065,
+        "stop" : 0,
+        "duration" : -1635413824065
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "e91e1d50c6d1b406",
+      "name" : "Response",
+      "source" : "e91e1d50c6d1b406.json",
+      "type" : "application/json",
+      "size" : 83
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 9,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 7
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "Critical"
+  }, {
+    "name" : "thread",
+    "value" : "1-2"
+  }, {
+    "name" : "suite",
+    "value" : "Product Search"
+  }, {
+    "name" : "testClass",
+    "value" : "Product Search"
+  }, {
+    "name" : "testMethod",
+    "value" : "should search for a product and verify the search text value"
+  }, {
+    "name" : "package",
+    "value" : "Product Search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-93.0"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d83e1976040667f9.json",
+  "parameterValues" : [ "firefox-93.0" ]
+}

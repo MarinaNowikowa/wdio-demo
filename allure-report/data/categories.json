@@ -1,0 +1,39 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Expect window to have title\n                \n                Expected: \"shoes\"\n                Received: \"ноутбук | eBay\"",
+      "children" : [ {
+        "name" : "should redirect to a new page and verify the title",
+        "uid" : "33655bd8e43c2857",
+        "parentUid" : "f130ab86be74ab4ed448e42710f454b6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1635420851520,
+          "stop" : 1635420862238,
+          "duration" : 10718
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox-93.0" ]
+      }, {
+        "name" : "should redirect to a new page and verify the title",
+        "uid" : "bb0f2b1793ffb0e7",
+        "parentUid" : "f130ab86be74ab4ed448e42710f454b6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1635420852855,
+          "stop" : 1635420863686,
+          "duration" : 10831
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-95.0.4638.54" ]
+      } ],
+      "uid" : "f130ab86be74ab4ed448e42710f454b6"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

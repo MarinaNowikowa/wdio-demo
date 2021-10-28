@@ -1,0 +1,171 @@
+{
+  "uid" : "8250c100766454a9",
+  "name" : "should update the search category",
+  "fullName" : "Product Search.should update the search category",
+  "historyId" : "17a2418912345a0621322707f00fe4a4",
+  "time" : {
+    "start" : 1635414768457,
+    "stop" : 1635414768981,
+    "duration" : 524
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1635414768458,
+        "stop" : 1635414768935,
+        "duration" : 477
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e3ed2a8c13205d53",
+        "name" : "Request",
+        "source" : "e3ed2a8c13205d53.json",
+        "type" : "application/json",
+        "size" : 71
+      }, {
+        "uid" : "fda8a40f2ba60cf8",
+        "name" : "Response",
+        "source" : "fda8a40f2ba60cf8.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/element/32047e19-8975-4738-b04a-d500abb89967/text",
+      "time" : {
+        "start" : 1635414768937,
+        "stop" : 1635414768946,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ee45d94862a21152",
+        "name" : "Screenshot",
+        "source" : "ee45d94862a21152.png",
+        "type" : "image/png",
+        "size" : 338899
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1635414768953,
+        "stop" : 1635414768963,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b3d4257ff8190909",
+        "name" : "Request",
+        "source" : "b3d4257ff8190909.json",
+        "type" : "application/json",
+        "size" : 71
+      }, {
+        "uid" : "c673be7cea992ac8",
+        "name" : "Response",
+        "source" : "c673be7cea992ac8.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/element/32047e19-8975-4738-b04a-d500abb89967/text",
+      "time" : {
+        "start" : 1635414768967,
+        "stop" : 1635414768980,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "cd2dc9c2ec8702e6",
+        "name" : "Response",
+        "source" : "cd2dc9c2ec8702e6.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "c831b3dcd8dbb04a",
+      "name" : "Response",
+      "source" : "c831b3dcd8dbb04a.json",
+      "type" : "application/json",
+      "size" : 39
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 7,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Search category"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-2"
+  }, {
+    "name" : "suite",
+    "value" : "Product Search"
+  }, {
+    "name" : "testClass",
+    "value" : "Product Search"
+  }, {
+    "name" : "testMethod",
+    "value" : "should update the search category"
+  }, {
+    "name" : "package",
+    "value" : "Product Search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-93.0"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8250c100766454a9.json",
+  "parameterValues" : [ "firefox-93.0" ]
+}
